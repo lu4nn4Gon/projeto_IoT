@@ -80,6 +80,11 @@ const String SENHA_MESTRA = "123";
 
 ## Conexões
 
+<img width="612" height="475" alt="image" src="https://github.com/user-attachments/assets/6a2fc18d-ef1c-442d-b704-691f9f33fc5c" />
+
+<img width="808" height="437" alt="image" src="https://github.com/user-attachments/assets/0457c644-b150-4d4f-a39b-0c53809a6f04" />
+
+
 | Componente | Pinos Arduino |
 |---|---|
 | LCD RS, EN | D12, D11 |
