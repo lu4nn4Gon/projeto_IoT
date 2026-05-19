@@ -78,12 +78,16 @@ const String SENHA_MESTRA = "123";
 
 ---
 
-## Conexões
+## Diagrama de conexão
 
+Figura 1 — Visão geral do circuito no Tinkercad.
 <img width="612" height="475" alt="image" src="https://github.com/user-attachments/assets/6a2fc18d-ef1c-442d-b704-691f9f33fc5c" />
 
+Figura 2 — Detalhamento das conexões entre os componentes e o Arduino UNO.
 <img width="808" height="437" alt="image" src="https://github.com/user-attachments/assets/0457c644-b150-4d4f-a39b-0c53809a6f04" />
 
+
+A tabela abaixo apresenta o mapeamento dos componentes utilizados e seus respectivos pinos conectados ao Arduino UNO.
 
 | Componente | Pinos Arduino |
 |---|---|
