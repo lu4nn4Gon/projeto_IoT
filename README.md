@@ -126,6 +126,9 @@ O sensor LDR monitora a presença de luz dentro do cofre. Caso seja detectada lu
 
 ---
 
+## Link da simulação
+Projeto disponível no Tinkercad: https://www.tinkercad.com/things/ddfB7MbH5Hb-projeto-iot?sharecode=S4zYsG35jiMVw5HP-UX5JBoNqYOetIutJxvNPjVVZYE
+
 ## Autores
 
 - Gabriel Andrade Rosa Oliveira
