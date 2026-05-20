@@ -123,7 +123,7 @@ O sensor LDR monitora a presença de luz dentro do cofre. Caso seja detectada lu
 |---|---|
 | `cofre.ino` | Código-fonte do Arduino comentado|
 | `README.md` | Documentação do projeto |
-
+| ´relatorio_tecnico.pdf´ | Relatório técnico |
 ---
 
 ## Plataforma utilizada
