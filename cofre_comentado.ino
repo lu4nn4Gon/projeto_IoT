@@ -74,7 +74,7 @@ const int MAX_TENTATIVAS = 3;
 
 // Valor limite do LDR para identificar entrada de luz
 // Se a leitura ficar abaixo desse valor, o sistema entende que houve violação.
-const int LIMITE_LUZ = 100;
+const int LIMITE_LUZ = 900;
 
 // Tempo de bloqueio após muitas tentativas incorretas, em segundos
 const int TEMPO_BLOQUEIO = 30;
