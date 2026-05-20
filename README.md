@@ -56,10 +56,8 @@ O projeto também possui um sistema de segurança: após três tentativas incorr
 
 ## Como usar
 
-1. Instale a biblioteca **Keypad** pela Arduino IDE.
-2. Abra o arquivo `cofre.ino` na Arduino IDE.
-3. Selecione a placa **Arduino UNO**.
-4. Carregue o código para a placa.
+1. Abra o link que leva ao nosso projeto no tinkercad.
+2. Clique em Iniciar simulação.
 5. Ajuste o potenciômetro até o texto aparecer corretamente no LCD.
 6. Pressione `A` para iniciar a digitação da senha.
 7. Digite a senha e pressione `#` para confirmar.
@@ -121,10 +119,8 @@ O sensor LDR monitora a presença de luz dentro do cofre. Caso seja detectada lu
 
 | Arquivo | Descrição |
 |---|---|
-| `cofre.ino` | Código-fonte do Arduino |
+| `cofre.ino` | Código-fonte do Arduino comentado|
 | `README.md` | Documentação do projeto |
-| `relatorio.pdf` | Relatório técnico |
-| `imagens/` | Imagens do circuito e diagramas |
 
 ---
 
