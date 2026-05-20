@@ -56,7 +56,7 @@ O projeto também possui um sistema de segurança: após três tentativas incorr
 
 ## Como usar
 
-1. Abra o link que leva ao nosso projeto no tinkercad.
+1. Abra o link que leva ao nosso projeto no tinkercad (na seção "Link da simulação") 
 2. Clique em Iniciar simulação.
 5. Ajuste o potenciômetro até o texto aparecer corretamente no LCD.
 6. Pressione `A` para iniciar a digitação da senha.
@@ -79,9 +79,11 @@ const String SENHA_MESTRA = "123";
 ## Diagrama de conexão
 
 Figura 1 — Visão geral do circuito no Tinkercad.
+
 <img width="612" height="475" alt="image" src="https://github.com/user-attachments/assets/6a2fc18d-ef1c-442d-b704-691f9f33fc5c" />
 
 Figura 2 — Detalhamento das conexões entre os componentes e o Arduino UNO.
+
 <img width="808" height="437" alt="image" src="https://github.com/user-attachments/assets/0457c644-b150-4d4f-a39b-0c53809a6f04" />
 
 
